@@ -23,8 +23,9 @@ Me motiva crear proyectos, resolver problemas y aprender nuevas tecnologías con
 
 ## 📈 Estadísticas de GitHub
 
-![Greco's GitHub stats](https://github-readme-stats.vercel.app/api?username=grecovr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grecovr&layout=compact&theme=radical)
+![Greco's GitHub stats](https://github-readme-stats.vercel.app/api?username=grecovr&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grecovr&layout=compact&theme=radical&hide_border=true)
 
 ## 🌐 Contacto
 
