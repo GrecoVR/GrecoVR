@@ -23,16 +23,12 @@ Me motiva crear proyectos, resolver problemas y aprender nuevas tecnologías con
 
 ## 📈 Estadísticas de GitHub
 
-![Greco's GitHub stats](https://github-readme-stats.vercel.app/api?username=grecovr)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grecovr)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GrecoVR&show_icons=true&theme=radical&bg_color=00000000)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GrecoVR&layout=compact&theme=radical&bg_color=00000000)
 
 ## 🌐 Contacto
 
 - ✉️ **grecovallejos07081976@email.com**
 
 ---
-
-Una de las fease que más me gusta es:
-> “El aprendizaje no se trata de acumular conocimiento, sino de aplicarlo con propósito.” — GrecoVR ✨
 
